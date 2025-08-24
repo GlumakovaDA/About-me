@@ -1,5 +1,4 @@
 # Глумакова Дарья Андреевна  
-**ML Engineer / Data Scientist**  
 📍 Санкт-Петербург, Россия | 📅 Дата рождения: 29.03.2005  
 📧 **Email:** [dglumakova@mail.ru](mailto:dglumakova@mail.ru) | 📞 **Телефон:** +7 (911) 368-46-41  
 🌐 **GitHub:** [GlumakovaDA](https://github.com/GlumakovaDA)  
